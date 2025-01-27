@@ -49,5 +49,5 @@ Contact
 For any questions or suggestions, feel free to contact:
 
 Name: Your Name
-Email: your.email@example.com
-GitHub: yourusername
+Email: sarkarrajarshee2003@gmail.com
+GitHub: Rajarshee-Sarkar
