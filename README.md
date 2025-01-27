@@ -48,6 +48,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 For any questions or suggestions, feel free to contact:
 
-Name: Your Name
+Name: Rajarshee Sarkar
 Email: sarkarrajarshee2003@gmail.com
 GitHub: Rajarshee-Sarkar
